@@ -1,20 +1,25 @@
-# devangikhatri
 
-<h1 align="center">👋 Hi, I’m Devangi Khatri</h1>
 
-<p align="center">
+<h1>👋 Hi, I’m Devangi Khatri</h1>
+
+<p>
 🎓 BCA Graduate | 💻 Python & C Programmer | 🔐 Cybersecurity Enthusiast  
 </p>
 
 ---
 
-### 💡 About Me
+### 💬 About Me
 
-I’m a passionate BCA graduate with a strong foundation in **C** and **Python** programming.  
-My true interest lies in **Cybersecurity**, with a specific focus on **Digital Forensics** and **Ethical Hacking**.
+I’m a dedicated BCA graduate with a solid foundation in programming languages such as **C** and **Python**, and a clear ambition to build a career in **Cybersecurity**.
+My academic journey has helped me develop strong technical and analytical skills. I’m deeply passionate about exploring and contributing to the fields of:
 
-🔍 I enjoy diving into digital evidence, analyzing cyber threats, and understanding the techniques hackers use — so I can stop them!  
-🚀 I aim to use my programming knowledge and curiosity to build secure, resilient systems.
+- 🕵️‍♀️ **Digital Forensics**
+- 🛡️ **Ethical Hacking**
+
+
+🔍 I enjoy investigating digital evidence, identifying vulnerabilities, and understanding attacker behavior to create more secure systems.
+
+💡 With a problem-solving mindset and a continuous learning attitude, I aim to contribute to building a safer and more secure digital world.
 
 ---
 
@@ -24,28 +29,23 @@ My true interest lies in **Cybersecurity**, with a specific focus on **Digital F
 - **Cybersecurity Areas:**  
   - Ethical Hacking  
   - Digital Forensics  
-  - Network Security  
+  - Networking
+    
+    
 - **Tools & Technologies:**  
-  - Wireshark  
-  - Burp Suite  
+  - Wireshark
+  - DNS recon
   - Nmap  
-  - Autopsy  
   - Linux Terminal
-
----
-
-### 📈 GitHub Stats
-
-![Devangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devangikhatri&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(Replace with your LinkedIn link)*  
-- 🌐 [Portfolio Website](https://yourportfolio.com) *(Optional)*  
-- 📧 Email: your.email@example.com *(Replace with your email)*
+- 💼 LinkedIn : https://www.linkedin.com/in/devangi-c-khatri/
+- 🌐 Portfolio Website : https://devangi-khatri.netlify.app  
+- 📧 Email: devangikhatri1497@gmail.com
 
 ---
 
-✨ *Thank you for visiting my GitHub profile! Let's learn, hack (ethically), and grow together.*
+✨ *Thank you for visiting my GitHub profile! 
